@@ -1,0 +1,2 @@
+cd /home/islamm9/DMKG
+CUDA_VISIBLE_DEVICES=1 python run_study.py 2>&1 | tee results/full.log
